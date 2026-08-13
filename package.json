@@ -1,0 +1,12 @@
+{
+  "name": "qa-automation-cypress",
+  "version": "1.0.0",
+  "description": "Cypress E2E basic setup",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
